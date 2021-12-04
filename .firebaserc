@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "empleados-1cd17": {
+      "hosting": {
+        "empleados2": [
+          "empleados-1cd17"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "empleados-1cd17"
+  }
+}
